@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+}
+div {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border: 2px solid black;
+}
+#container {
+  height: 200px;
+  width: 900px;
+  border: 2px solid black;
+}
+#box1 {
+  background-color: red;
+}
+#box2 {
+  background-color: green;
+}
+#box3 {
+  background-color: blue;
+}
+#box4 {
+  background-color: pink;
+}
+#box5 {
+  background-color: palevioletred;
+}
+#box6 {
+  background-color: brown;
+}
+#box7 {
+  background-color: cadetblue;
+}
+#box8 {
+  background-color: rgb(231, 10, 84);
+}
